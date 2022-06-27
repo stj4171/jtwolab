@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Config>
+	<Database type='DB_종류' 
+		      host='DB_IP'
+		      port='DB_PORT'
+			  user='DB_USER'
+			  passwd_enc='DB_USER_PW_ENC'			  
+			  charset='utf8'/>
+
+	<S3 region_name='REGION'
+	    aws_access_key_id_enc='AWS_ACCESS_KEY_ID_ENC'
+		aws_secret_access_key_enc='AWS_SECRET_ACCESS_KEY_ENC'/>
+</Config>
+ 
+ 
